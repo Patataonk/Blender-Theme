@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "Pastel_Yellow_theme"
+version = "0.0.1"
+name = "Pastel_Yellow"
+tagline = "Bright and yellow pastel theme"
+maintainer = "lonku"
+type = "theme"
+
+website = "https://github.com/Patataonk/Blender-Theme"
+tags = ["Light"]
+
+blender_version_min = "3.6.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
